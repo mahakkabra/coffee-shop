@@ -4,16 +4,16 @@ A modern and responsive coffee shop website UI built using HTML, CSS, and basic 
 
 
 ## Features
-Responsive navigation bar
-Hero section with call-to-action
-About / History section
-Product listing with pricing
-Customer reviews section
-Footer with contact details
-Clean and consistent UI design
+- Responsive navigation bar
+- Hero section with call-to-action
+- About / History section
+- Product listing with pricing
+- Customer reviews section
+- Footer with contact details
+- Clean and consistent UI design
 
 
 ## Tech Stack
-HTML5
-CSS3
-JavaScript
+- HTML5
+- CSS3
+- JavaScript
